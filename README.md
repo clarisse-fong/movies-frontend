@@ -1,7 +1,7 @@
 # WeLoveMovies Frontend Application
 
 ## Live Links
-You can find the github for the backend [here](https://github.com/clarisse-fong/movies-backend)and the deployed frontend [here](https://movie-frontend-84do.onrender.com/). 
+You can find the github for the backend [here](https://github.com/clarisse-fong/movies-backend) and the deployed frontend [here](https://movie-frontend-84do.onrender.com/). 
 
 ## About
 I created the backend for a movies website called WeLoveMovies for a capstone project at my Thinkful / Chegg Skills Engineering program. 
